@@ -1,0 +1,2 @@
+var e;(0,(e=("undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:"undefined"!=typeof window?window:"undefined"!=typeof global?global:{}).parcelRequire79f1).register)("pkxw1",function(n,o){Object.defineProperty(n.exports,"__esModule",{value:!0,configurable:!0}),Object.defineProperty(n.exports,"default",{get:function(){return i},set:void 0,enumerable:!0,configurable:!0});var l=e("l5BBl"),i=()=>/*#__PURE__*/(0,l.jsx)("div",{children:"Account"})});
+//# sourceMappingURL=Account.91d4bc6f.js.map
